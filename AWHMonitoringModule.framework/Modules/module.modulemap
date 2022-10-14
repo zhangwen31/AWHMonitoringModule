@@ -1,0 +1,6 @@
+framework module AWHMonitoringModule {
+  umbrella header "AWHMonitoringModule.h"
+
+  export *
+  module * { export * }
+}
