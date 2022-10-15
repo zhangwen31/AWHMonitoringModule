@@ -201,6 +201,7 @@ Pod::Spec.new do |s|
   s.dependency 'AWHOilSwift'
   s.dependency 'AWHVideoPlayer'
   s.dependency 'SAMKeychain'
+  s.dependency 'CocoaAsyncSocket'
   
   #高德地图
   #s.dependency 'AMap3DMap'
