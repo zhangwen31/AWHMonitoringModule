@@ -23,7 +23,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "AWHMonitoringModule"
-  s.version      = "0.0.2"
+  s.version      = "0.0.3"
   s.summary      = "A short description of AWHMonitoringModule."
 
   # This description is used to generate tags and improve search results.
