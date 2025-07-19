@@ -12,6 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 @interface AWHMMMinimalistMonitoringTableViewCell : UITableViewCell
 
 /** */
+@property (nonatomic, strong, readonly) UIView *showContentView;
 @property(nonatomic,strong)UIImageView *PZimageView;
 @property(nonatomic,strong)UILabel *plateLab;
 @property(nonatomic,strong)UILabel *timeLab;

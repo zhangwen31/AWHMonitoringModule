@@ -11,6 +11,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface AWHMMMinimalistMonitoringViewController : AWHBBBaseViewController
 
+@property(nonatomic, assign)AWHBBBusinessLoginModeType type;
+
 @end
 
 NS_ASSUME_NONNULL_END

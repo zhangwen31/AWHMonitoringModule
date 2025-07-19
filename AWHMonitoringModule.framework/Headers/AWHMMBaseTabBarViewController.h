@@ -20,6 +20,8 @@ NS_ASSUME_NONNULL_BEGIN
 
 @property(nonatomic, copy)void (^automaticallyRefreshData)(void);
 
+@property(nonatomic, assign)AWHBBBusinessLoginModeType type;
+
 @end
 
 NS_ASSUME_NONNULL_END
