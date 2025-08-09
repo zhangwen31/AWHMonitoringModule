@@ -5,7 +5,7 @@
 //  Created by 王恒 on 2024/6/23.
 //
 
-#import "AWHBPBBaseTabBarViewController.h"
+#import <AWHBPublicBusiness/AWHBPBBaseTabBarViewController.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
