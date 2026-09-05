@@ -39,6 +39,8 @@ NS_ASSUME_NONNULL_BEGIN
 @property(nonatomic,copy)NSString *manageFee;
 @property(nonatomic,copy)NSString *procFee;
 @property(nonatomic,copy)NSString *othreFee;
+@property(nonatomic,copy)NSString *person;
+@property(nonatomic,copy)NSString *driverName;
 
 @end
 

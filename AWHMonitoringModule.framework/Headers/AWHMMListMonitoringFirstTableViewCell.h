@@ -11,7 +11,7 @@
 NS_ASSUME_NONNULL_BEGIN
 
 typedef void(^AWHMMListMonitoringBlock)(AWHBBCarModel *model);
-@interface AWHMMListMonitoringFirstTableViewCell : UITableViewCell
+@interface AWHMMListMonitoringFirstTableViewCell : AWHBBBTableViewCell
 @property(nonatomic,strong, readonly)UIImageView *plateImageView;
 @property(nonatomic,strong, readonly)UIView *numview;
 @property(nonatomic,strong, readonly)UIImageView *pimageView;
